@@ -18,3 +18,6 @@ Damit du die Vereine in deinem Dashboard darstellen kannst benötigst du:
   
 - Custom - Layout - Card
   https://github.com/thomasloven/lovelace-layout-card
+
+
+So könnte die Teamtracker-Card dann bei dir aussehen: https://github.com/Johnyboy1984/Teamtracker/blob/main/Teamtracker.png?raw=true
