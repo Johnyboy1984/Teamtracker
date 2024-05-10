@@ -11,5 +11,10 @@ Um dann Mannschaften hinzufügen gehst du in deinem Home Assistant auf Geräte u
 
 Damit du die Vereine in deinem Dashboard darstellen kannst benötigst du:
 - Teamtracker-Card
+  https://github.com/vasqued2/ha-teamtracker-card
+  
 - Auto Entities
+  https://github.com/thomasloven/lovelace-auto-entities
+  
 - Custom - Layout - Card
+  https://github.com/thomasloven/lovelace-layout-card
