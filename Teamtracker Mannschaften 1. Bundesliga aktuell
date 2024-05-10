@@ -1,0 +1,148 @@
+1. Integration Team Tracker installieren (Hacs / Integrationen)
+2. Nach Installation fordert dich HA auf Neuzustarten (HA Neustarten)
+3.  Einstellungen / Geräte und Dienste --> Integration Hinzufügen und alle Vereine hinzufügen
+
+1. Bundesliga:
+
+FC Bayern:
+
+Leaque: BUND
+Team: MUN
+Friendly Name: FC Bayern München
+Update Timeout (in seconds): 120
+
+
+Borussia Dortmund:**
+
+Leaque: BUND
+Team: DOR
+Friendly Name: Borussia Dortmund
+Update Timeout (in seconds): 120
+
+
+1. Union Berlin:
+
+Leaque: BUND
+Team: FCU
+Friendly Name: 1. Union Berlin
+Update Timeout (in seconds): 120
+
+
+RB Leipzig:
+
+Leaque: BUND
+Team: RBL
+Friendly Name: RB Leipzig
+Update Timeout (in seconds): 120
+
+
+SC Freiburg:
+
+Leaque: BUND
+Team: SCF
+Friendly Name: SC Freiburg
+Update Timeout (in seconds): 120
+
+
+**Eintracht Frankfurt:**
+
+Leaque: BUND
+Team: SGE
+Friendly Name: Eintracht Frankfurt
+Update Timeout (in seconds):** 120
+
+
+Mainz 05:
+
+Leaque: BUND
+Team: M05
+Friendly Name: Mainz 05
+Update Timeout (in seconds): 120
+
+
+Vfl Wolfsburg:
+
+Leaque: BUND
+Team: WOB
+Friendly Name: Vfl Wolfsburg
+Update Timeout (in seconds): 120
+
+
+Bayer Leverkusen:
+
+Leaque: BUND
+Team: B04
+Friendly Name: Bayer Leverkusen
+Update Timeout (in seconds): 120
+
+
+Borussia Mönchengladbach:**
+
+Leaque: BUND
+Team: BMG
+Friendly Name: Borussia Mönchengladbach
+Update Timeout (in seconds): 120
+
+
+Werder Bremen:
+
+Leaque: BUND
+Team: SVW
+Friendly Name: Werder Bremen
+Update Timeout (in seconds): 120
+
+
+1. FC Köln:
+
+Leaque: BUND
+Team: KOE
+Friendly Name: 1. FC Köln
+Update Timeout (in seconds): 120
+
+
+FC Augsburg:
+
+Leaque:BUND
+Team: FCA
+Friendly Name: FC Augsburg
+Update Timeout (in seconds): 120
+
+
+Hertha BSC Berlin:
+
+Leaque: BUND
+Team: BSC
+Friendly Name: Hertha BSC Berlin
+Update Timeout (in seconds): 120
+
+
+Vfb Stuttgart
+
+Leaque: BUND
+Team: VFB
+Friendly Name: Vfl Stuttgart
+Update Timeout (in seconds): 120
+
+
+TSG Hoffenheim:
+
+Leaque: BUND
+Team: TSG
+Friendly Name: TSG Hoffenheim
+Update Timeout (in seconds): 120
+
+
+Schalke 04 
+
+Leaque: BUND
+Team: S04
+Friendly Name: Schalke 04
+Update Timeout (in seconds): 120
+
+
+Vfl Bochum:
+
+Leaque: BUND
+Team: BOC
+Friendly Name: Vfl Bochum
+Update Timeout (in seconds): 120
