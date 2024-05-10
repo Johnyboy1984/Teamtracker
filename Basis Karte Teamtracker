@@ -1,4 +1,3 @@
-```yaml
 type: custom:auto-entities
 unique: true
 show_empty: false
@@ -19,4 +18,3 @@ filter:
 sort:
   method: attribute
   attribute: date
-```
