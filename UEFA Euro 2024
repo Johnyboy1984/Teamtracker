@@ -1,31 +1,103 @@
+Albanien
+League: Custom: Specify sport and league path
+Team/Atlete: ALB
+Friendly Name: Albanien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Dänemark
+League: Custom: Specify sport and league path
+Team/Atlete: DEN
+Friendly Name: Dänemark
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
 Deutschland
-Teamtracker aufrufen:
 League: Custom: Specify sport and league path
 Team/Atlete: GER
 Friendly Name: Deutschland
+Sport Path: soccer
+Leaque Path: uefa.euro
 
-eintragen, dann auf Absenden klicken (dann kommt ein neues Fenster)
+
+England
+League: Custom: Specify sport and league path
+Team/Atlete: ENG
+Friendly Name: England
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Italien
+League: Custom: Specify sport and league path
+Team/Atlete: ITA
+Friendly Name: Italien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Kroatien
+League: Custom: Specify sport and league path
+Team/Atlete: CRO
+Friendly Name: Kroatien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Polen
+League: Custom: Specify sport and league path
+Team/Atlete: POL
+Friendly Name: Polen
 Sport Path: soccer
 Leaque Path: uefa.euro
 
 
 Schottland
-Teamtracker aufrufen:
 League: Custom: Specify sport and league path
 Team/Atlete: SCO
 Friendly Name: Schottland
+Sport Path: soccer
+Leaque Path: uefa.euro
 
-eintragen, dann auf Absenden klicken (dann kommt ein neues Fenster)
+
+Schweiz
+League: Custom: Specify sport and league path
+Team/Atlete: SUI
+Friendly Name: Schweiz
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Serbien
+League: Custom: Specify sport and league path
+Team/Atlete: SRB
+Friendly Name: Serbien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Slovenien
+League: Custom: Specify sport and league path
+Team/Atlete: SVN
+Friendly Name: Slovenien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Spanien
+League: Custom: Specify sport and league path
+Team/Atlete: ESP
+Friendly Name: Spanien
 Sport Path: soccer
 Leaque Path: uefa.euro
 
 
 Ungarn
-Teamtracker aufrufen:
 League: Custom: Specify sport and league path
 Team/Atlete: HUN
 Friendly Name: Ungarn
-
-eintragen, dann auf Absenden klicken (dann kommt ein neues Fenster)
 Sport Path: soccer
 Leaque Path: uefa.euro
+
