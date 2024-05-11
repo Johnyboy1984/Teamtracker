@@ -6,6 +6,14 @@ Sport Path: soccer
 Leaque Path: uefa.euro
 
 
+Belgien
+League: Custom: Specify sport and league path
+Team/Atlete: BEL
+Friendly Name: Belgien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
 Dänemark
 League: Custom: Specify sport and league path
 Team/Atlete: DEN
@@ -30,6 +38,22 @@ Sport Path: soccer
 Leaque Path: uefa.euro
 
 
+Frankreich
+League: Custom: Specify sport and league path
+Team/Atlete: FRA
+Friendly Name: Frankreich
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Georgien
+League: Custom: Specify sport and league path
+Team/Atlete: GEO
+Friendly Name: Georgien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
 Italien
 League: Custom: Specify sport and league path
 Team/Atlete: ITA
@@ -46,10 +70,42 @@ Sport Path: soccer
 Leaque Path: uefa.euro
 
 
+Niederland
+League: Custom: Specify sport and league path
+Team/Atlete: NED
+Friendly Name: Niederland
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Österreich
+League: Custom: Specify sport and league path
+Team/Atlete: AUT
+Friendly Name: Österreich
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
 Polen
 League: Custom: Specify sport and league path
 Team/Atlete: POL
 Friendly Name: Polen
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Portugal
+League: Custom: Specify sport and league path
+Team/Atlete: POR
+Friendly Name: Portugal
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Romänien
+League: Custom: Specify sport and league path
+Team/Atlete: ROU
+Friendly Name: Romänien
 Sport Path: soccer
 Leaque Path: uefa.euro
 
@@ -78,6 +134,14 @@ Sport Path: soccer
 Leaque Path: uefa.euro
 
 
+Slovakai
+League: Custom: Specify sport and league path
+Team/Atlete: SVK
+Friendly Name: Slovakai
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
 Slovenien
 League: Custom: Specify sport and league path
 Team/Atlete: SVN
@@ -90,6 +154,30 @@ Spanien
 League: Custom: Specify sport and league path
 Team/Atlete: ESP
 Friendly Name: Spanien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Tschechien
+League: Custom: Specify sport and league path
+Team/Atlete: CZE
+Friendly Name: Tschechien
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Türkei
+League: Custom: Specify sport and league path
+Team/Atlete: TUR
+Friendly Name: Türkei
+Sport Path: soccer
+Leaque Path: uefa.euro
+
+
+Ukraine
+League: Custom: Specify sport and league path
+Team/Atlete: UKR
+Friendly Name: Ukraine
 Sport Path: soccer
 Leaque Path: uefa.euro
 
